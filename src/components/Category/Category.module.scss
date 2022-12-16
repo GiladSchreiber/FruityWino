@@ -1,0 +1,18 @@
+@import "../../main.scss";
+
+.categoryWrapper {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  transition: transform 0.5s ease-out;
+}
+
+.categoryHome {
+  position: absolute;
+  color: $darkColor;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  transition: transform 0.3s ease-out;
+}

@@ -1,0 +1,68 @@
+{
+  "Wines": {
+    "Red": [
+      {
+        "Name": "Rib Shack",
+        "Origin": "South Africa",
+        "Grapes": "Pinotage, Shiraz",
+        "Alcohol": 4.5,
+        "BottlePrice": "82",
+        "GlassPrice": "32",
+        "BottlePriceHH": "33",
+        "GlassPriceHH": "25",
+        "Description": "בלנד מרענן ונועז מדרום אפריקה, פירותי ומריר, עפיצות קלה. ארומות של הדרים ושוקולד. מצויין להגשה לצד גבינות ופירות. לשמור בקירור קל.",
+        "ImageUrl": "ribshack"
+      },
+      {
+        "Name": "Alamos",
+        "Origin": "South Africa",
+        "Grapes": "Pinotage, Shiraz",
+        "Alcohol": 4.5,
+        "BottlePrice": "82",
+        "GlassPrice": "32",
+        "BottlePriceHH": "33",
+        "GlassPriceHH": "25",
+        "Description": "בלנד מרענן ונועז מדרום אפריקה, פירותי ומריר, עפיצות קלה. ארומות של הדרים ושוקולד. מצויין להגשה לצד גבינות ופירות. לשמור בקירור קל.",
+        "ImageUrl": "alamos"
+      },
+      {
+        "Name": "Dogajolo",
+        "Origin": "South Africa",
+        "Grapes": "Pinotage, Shiraz",
+        "Alcohol": 4.5,
+        "BottlePrice": "82",
+        "GlassPrice": "32",
+        "BottlePriceHH": "33",
+        "GlassPriceHH": "25",
+        "Description": "בלנד מרענן ונועז מדרום אפריקה, פירותי ומריר, עפיצות קלה. ארומות של הדרים ושוקולד. מצויין להגשה לצד גבינות ופירות. לשמור בקירור קל.",
+        "ImageUrl": "dogajolo"
+      }
+    ],
+    "White": [
+      {
+        "Name": "Fernway",
+        "Origin": "South Africa",
+        "Grapes": "Pinotage, Shiraz",
+        "Alcohol": 4.5,
+        "BottlePrice": "82",
+        "GlassPrice": "32",
+        "BottlePriceHH": "33",
+        "GlassPriceHH": "25",
+        "Description": "בלנד מרענן ונועז מדרום אפריקה, פירותי ומריר, עפיצות קלה. ארומות של הדרים ושוקולד. מצויין להגשה לצד גבינות ופירות. לשמור בקירור קל.",
+        "ImageUrl": "fernway"
+      },
+      {
+        "Name": "DB",
+        "Origin": "South Africa",
+        "Grapes": "Pinotage, Shiraz",
+        "Alcohol": 4.5,
+        "BottlePrice": "82",
+        "GlassPrice": "32",
+        "BottlePriceHH": "33",
+        "GlassPriceHH": "25",
+        "Description": "בלנד מרענן ונועז מדרום אפריקה, פירותי ומריר, עפיצות קלה. ארומות של הדרים ושוקולד. מצויין להגשה לצד גבינות ופירות. לשמור בקירור קל.",
+        "ImageUrl": "db"
+      }
+    ]
+  }
+}

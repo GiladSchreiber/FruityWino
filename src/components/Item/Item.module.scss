@@ -1,0 +1,99 @@
+@import "../../main.scss";
+
+.itemWrapper {
+  position: absolute;
+  background-color: $lightColor;
+  color: $darkColor;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  transition: transform 0.3s ease-out;
+}
+
+.headerWrapper {
+  position: absolute;
+  width: 100%;
+  height: 18vh;
+  font-size: 42pt;
+  font-family: "Assistant Light";
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header {
+  position: relative;
+}
+
+.detailsWrapper {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 45vh;
+  top: 15vh;
+  font-family: "Assistant ExtraLight";
+  font-size: 20pt;
+}
+
+.details {
+  position: relative;
+  width: 80%;
+  height: 80%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.detail {
+  position: relative;
+  width: 95%;
+  height: 15%;
+}
+.icon {
+  position: absolute;
+  width: 40px;
+  height: 100%;
+  mask-position: center;
+  mask-size: contain;
+  background-color: $darkColor;
+  mask-repeat: no-repeat;
+}
+
+.info {
+  position: absolute;
+  width: 200px;
+  height: 100%;
+  left: 50px;
+}
+
+.descriptionWrapper {
+  position: absolute;
+  width: 100%;
+  height: 40vh;
+  top: 60vh;
+}
+
+.description {
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  left: 5%;
+  font-family: "Assistant ExtraLight";
+  font-size: 18pt;
+  text-align: right;
+}
+
+.image {
+  position: absolute;
+  width: 40%;
+  height: 90%;
+  right: 0;
+  mix-blend-mode: multiply;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
