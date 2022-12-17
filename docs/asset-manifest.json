@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.6d968aac.css",
-    "main.js": "/static/js/main.e0537846.js",
-    "static/media/Assistant-Light.ttf": "/static/media/Assistant-Light.1af74b30299892efee4f.ttf",
-    "static/media/Assistant-ExtraLight.ttf": "/static/media/Assistant-ExtraLight.dd2d47b5392bb21d0c34.ttf",
-    "index.html": "/index.html",
-    "main.6d968aac.css.map": "/static/css/main.6d968aac.css.map",
-    "main.e0537846.js.map": "/static/js/main.e0537846.js.map"
+    "main.css": "/fruityWino/static/css/main.584c365c.css",
+    "main.js": "/fruityWino/static/js/main.343ef5f4.js",
+    "static/media/Assistant-Light.ttf": "/fruityWino/static/media/Assistant-Light.1af74b30299892efee4f.ttf",
+    "static/media/Assistant-ExtraLight.ttf": "/fruityWino/static/media/Assistant-ExtraLight.dd2d47b5392bb21d0c34.ttf",
+    "index.html": "/fruityWino/index.html",
+    "main.584c365c.css.map": "/fruityWino/static/css/main.584c365c.css.map",
+    "main.343ef5f4.js.map": "/fruityWino/static/js/main.343ef5f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d968aac.css",
-    "static/js/main.e0537846.js"
+    "static/css/main.584c365c.css",
+    "static/js/main.343ef5f4.js"
   ]
 }
