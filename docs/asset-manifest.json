@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fruityWino/static/css/main.6a118d55.css",
-    "main.js": "/fruityWino/static/js/main.92da3df0.js",
+    "main.css": "/fruityWino/static/css/main.281f4f50.css",
+    "main.js": "/fruityWino/static/js/main.c650be68.js",
     "static/media/Assistant-Light.ttf": "/fruityWino/static/media/Assistant-Light.1af74b30299892efee4f.ttf",
     "static/media/Assistant-ExtraLight.ttf": "/fruityWino/static/media/Assistant-ExtraLight.dd2d47b5392bb21d0c34.ttf",
     "index.html": "/fruityWino/index.html",
-    "main.6a118d55.css.map": "/fruityWino/static/css/main.6a118d55.css.map",
-    "main.92da3df0.js.map": "/fruityWino/static/js/main.92da3df0.js.map"
+    "main.281f4f50.css.map": "/fruityWino/static/css/main.281f4f50.css.map",
+    "main.c650be68.js.map": "/fruityWino/static/js/main.c650be68.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a118d55.css",
-    "static/js/main.92da3df0.js"
+    "static/css/main.281f4f50.css",
+    "static/js/main.c650be68.js"
   ]
 }
